@@ -1,0 +1,17 @@
+.Intro {
+    display: flex;
+    flex-direction: column;
+    margin-top: 40%;
+}
+
+.NameInput {
+    margin: 8em 0 4em 0;
+    text-align: center;
+
+}
+
+.Buttons {
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+}

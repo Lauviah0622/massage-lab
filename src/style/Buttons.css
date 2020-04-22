@@ -1,0 +1,12 @@
+.buttons-container {
+    position: relative;
+    bottom: 0;
+
+    width: 60%;
+    margin: 3rem auto;
+    text-align: center;
+}
+
+.buttons-container > button{
+    margin: 0.5rem 0;
+}

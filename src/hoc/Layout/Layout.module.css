@@ -1,0 +1,23 @@
+.Main {
+    padding: 1rem;
+    overflow-y: scroll;
+    height: calc(100% - 56px);
+
+}   
+
+.Layout {
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.3);
+    overflow: hidden;
+    /* min-height: inherit; */
+    height: 100vh;
+    /* position: absolute; */
+}
+
+@media (min-height: 992px) {
+
+    .Layout {
+        height: 912px;
+    }
+}
+
+.Toolbar {}
